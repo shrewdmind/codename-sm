@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codename
+- 👋 Hi, I’m @codename_shrewdmind
 - 👀 I’m interested in anything that catches my attention
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects to expand help out with challenges and grow my knowledge and experience
